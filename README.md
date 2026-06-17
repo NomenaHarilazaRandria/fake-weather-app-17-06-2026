@@ -70,6 +70,7 @@ Created by Nomena as part of a JavaScript learning roadmap.
 
 ## Live Demo
 
+https://nomenaharilazarandria.github.io/fake-weather-app-17-06-2026/
 
 ## Screenshot
 <img width="464" height="469" alt="image" src="https://github.com/user-attachments/assets/50bc1c31-e370-48c7-9593-087551ed8a4d" />
